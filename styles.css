@@ -56,9 +56,10 @@ a:hover {
     }
     .nav {
         overflow:scroll;
+        overflow-x:hidden;
         height:200px;
-        width:auto;
-       
+        width:95vw;
+        text-align: center;
     }
     
         
